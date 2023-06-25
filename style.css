@@ -66,19 +66,8 @@ nav .menu{
     color: black;
 }
 .content{
-    display: flex;
-    text-align: center;
-    justify-content: center;
+    padding-left: 20%;
 }
-#idolchamp{
-    width: 100px;
-    float: left;
+.idolchamp-img{
+    width: 1000px;
 }
-.content-idolchamp{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-    box-sizing: border-box;
-}
-}
-
